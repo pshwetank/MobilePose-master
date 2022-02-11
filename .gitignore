@@ -1,0 +1,3 @@
+#Data folders to ignore
+data/LSP/*
+lsp_dataset.zip
